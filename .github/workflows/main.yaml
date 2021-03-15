@@ -7,7 +7,6 @@ on:
       - 'main'
       - 'hotfix'
 
-
 jobs:
   build:
     name: Build & Test
